@@ -1,6 +1,6 @@
 # AI Writing Tools 2025 - Affiliate Review Site
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-000000?style=flat&logo=github)](https://yourusername.github.io/ai-writing-tools-2025)  
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-000000?style=flat&logo=github)](https://writerai2025.github.io/ai-writing-tools-2025)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Quick Overview
@@ -8,7 +8,7 @@ Welcome to **AI Writing Tools 2025**—your go-to guide for the top AI-powered w
 
 This site is a simple, SEO-optimized affiliate review hub built with vanilla HTML/CSS/JS. It's designed for passive income: Once live on GitHub Pages, organic traffic from searches like "best AI writer 2025" drives clicks and commissions via Amazon/ClickBank links.
 
-- **Live Demo**: [View Site](https://yourusername.github.io/ai-writing-tools-2025) (Replace with your actual URL)
+- **Live Demo**: [View Site](https://writerai2025.github.io/ai-writing-tools-2025/) (Replace with your actual URL)
 - **Earnings Potential**: $200-600/month from 5-10% commissions on 50+ referrals (based on 2025 affiliate benchmarks).
 - **Why 2025?** AI adoption is exploding—tools here feature the latest updates like real-time collaboration and plagiarism-proof outputs.
 
@@ -17,11 +17,11 @@ This site is a simple, SEO-optimized affiliate review hub built with vanilla HTM
 - **Detailed Reviews**: Honest breakdowns with real-user insights (updated Nov 2025).
 - **SEO Magic**: Keyword-rich meta tags, alt text, and structure for Google ranking.
 - **Mobile-Responsive**: Clean design works on any device—no frameworks needed.
-- **Monetization-Ready**: Prepped for Amazon Associates, Jasper affiliates, etc. (Just swap `[YOUR_AFFILIATE_LINK]` in `index.html`).
+- **Monetization-Ready**: Prepped for Amazon Associates, Jasper affiliates, etc. (Just swap `https://amzn.to/47OnRKY` in `index.html`).
 
 ## 🛠️ How to Deploy (2-Min Setup)
 1. **Fork This Repo**: Click "Fork" on GitHub.
-2. **Add Your Links**: Edit `index.html`—replace placeholders like `[YOUR_AFFILIATE_LINK_JASPER]` with your actual affiliate URLs (sign up free at Amazon Associates or tool-specific programs).
+2. **Add Your Links**: Edit `index.html`—replace placeholders like `https://amzn.to/47OnRKY_JASPER` with your actual affiliate URLs (sign up free at Amazon Associates or tool-specific programs).
 3. **Enable Pages**: Repo Settings > Pages > Source: Deploy from "main" branch > Save. Site live in ~5 mins!
 4. **Promote Once**: Share on Reddit (r/AItools, r/blogging) or X for initial boost. Then, let SEO do the rest.
 
